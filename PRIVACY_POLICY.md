@@ -1,103 +1,133 @@
-# Privacy Policy / Gizlilik Politikası - TetrisTetris: Overload
+<div align="center">
 
-**Effective Date / Yürürlük Tarihi:** September 11, 2026  
-**Developer / Geliştirici:** Sonnur Kaplan  
-**Contact / İletişim:** sonnurornek61@gmail.com  
+# 🧩 TetrisTetris: Overload
+### Privacy Policy / Gizlilik Politikası
+
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+
+*Effective Date / Yürürlük Tarihi: September 11, 2026*  
+*Developer / Geliştirici: Sonnur Kaplan*  
+*Contact / İletişim: [sonnurornek61@gmail.com](mailto:sonnurornek61@gmail.com)*
+
+</div>
 
 ---
 
-## 1. Introduction / Giriş
+## 🌐 Quick Navigation / Hızlı Navigasyon
+* [English Version](#-english-version)
+* [Türkçe Versiyon](#-türkçe-versiyon)
 
-**English:**  
+---
+
+<div id="english-version"></div>
+
+# 🇬🇧 English Version
+
+## 1. Introduction
 Welcome to **TetrisTetris: Overload** ("the Game"). We respect your privacy and are committed to protecting it. This Privacy Policy explains how our mobile application handles information when you download, install, and play the game on your Android device.
 
-**Türkçe:**  
-**TetrisTetris: Overload** ("Oyun") uygulamasına hoş geldiniz. Gizliliğinize saygı duyuyor ve onu korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, Android cihazınıza oyunu indirdiğiniz, kurduğunuz ve oynadığınız süre boyunca mobil uygulamamızın bilgileri nasıl ele aldığını açıklar.
+> > 💡 **Core Principle:** The game is designed with an **offline-first** approach and does not require user registration or personal profiles.
 
 ---
 
-## 2. Information We Do Not Collect / Toplamadığımız Bilgiler
-
-**English:**  
-* **No Personal Information:** We do not collect, store, or process any personal data such as your name, phone number, email address, physical address, photos, contacts, or location.
-* **No User Accounts:** The game does not require user registration, login, or personal profile creation.
-* **Offline-First:** The core gameplay operates entirely offline on your local device.
-
-**Türkçe:**  
-* **Kişisel Bilgi Yoktur:** Adınız, telefon numaranız, e-posta adresiniz, açık adresiniz, fotoğraflarınız, kişileriniz veya konumunuz gibi hiçbir kişisel veriyi toplamıyor, saklamıyor veya işlemiyoruz.
-* **Kullanıcı Hesabı Yoktur:** Oyun kayıt olmanızı, oturum açmanızı veya kişisel bir profil oluşturmanızı gerektirmez.
-* **Çevrimdışı Çalışma:** Temel oyun deneyimi tamamen yerel cihazınızda çevrimdışı olarak çalışır.
+## 2. Information We Do Not Collect
+* **No Personal Data:** We do not collect, store, or process any personal information such as your name, phone number, email address, physical address, photos, contacts, or location.
+* **No Accounts:** The game does not require you to sign up, log in, or create any user profile.
 
 ---
 
-## 3. Data Stored Locally on Your Device / Cihazınızda Yerel Olarak Saklanan Veriler
-
-**English:**  
-The game stores certain non-personal game data locally on your device using Android storage mechanisms (such as DataStore / SharedPreferences) to ensure proper gameplay functionality:
+## 3. Data Stored Locally on Your Device
+To ensure proper game functionality, certain non-personal gameplay data is stored locally on your device using Android storage mechanisms (DataStore / SharedPreferences):
 * High scores and current game progress
 * Game statistics (games played, total lines cleared, best combo)
-* User preferences (language selection, audio/music settings, haptic feedback toggles, and notification settings)
+* User preferences (language, sound/music settings, haptic feedback, and notifications)
 
-This data remains entirely on your device and is never transmitted to us or any external servers.
-
-**Türkçe:**  
-Oyun, düzgün bir oynanış işlevselliği sağlamak için Android depolama mekanizmalarını (DataStore / SharedPreferences gibi) kullanarak bazı kişisel olmayan oyun verilerini yalnızca cihazınızda saklar:
-* En yüksek skorlar ve mevcut oyun ilerlemesi
-* Oyun istatistikleri (oynanan oyunlar, temizlenen toplam satır, en iyi kombo)
-* Kullanıcı tercihleri (dil seçimi, ses/müzik ayarları, titreşim geri bildirimi ve bildirim ayarları)
-
-Bu veriler tamamen cihazınızda kalır ve asla bize veya harici sunuculara iletilmez.
+*This data remains strictly on your device and is never transmitted to us or any external servers.*
 
 ---
 
-## 4. Third-Party Services and Advertising (AdMob) / Üçüncü Taraf Hizmetleri ve Reklamlar (AdMob)
-
-**English:**  
-To keep TetrisTetris: Overload free to play, we integrate **Google AdMob** to display banner and interstitial advertisements, as well as optional rewarded ads. 
-* **Ad Networks:** Google AdMob may collect certain device information (such as IP address, advertising ID, and device identifiers) to serve contextually relevant ads or personalized ads depending on your consent choices.
-* **User Consent:** In compliance with Google policies and regional privacy regulations, users are presented with appropriate consent management options regarding ad personalization upon their initial launch.
-
-**Türkçe:**  
-TetrisTetris: Overload'u oynamayı ücretsiz tutmak için banner, geçiş reklamları ve isteğe bağlı ödüllü reklamlar göstermek üzere **Google AdMob** entegrasyonu kullanıyoruz.
-* **Reklam Ağları:** Google AdMob, izin tercihlerinize bağlı olarak bağlamsal olarak alakalı reklamlar veya kişiselleştirilmiş reklamlar sunmak için belirli cihaz bilgilerini (IP adresi, reklam kimliği ve cihaz tanımlayıcıları gibi) toplayabilir.
-* **Kullanıcı Onayı:** Google politikalarına ve bölgesel gizlilik düzenlemelerine uygun olarak, kullanıcılara ilk açılışta reklam kişiselleştirmesiyle ilgili uygun onay yönetimi seçenekleri sunulur.
+## 4. Third-Party Services and Advertising (AdMob)
+To keep TetrisTetris: Overload free to play, we integrate **Google AdMob** to display banner, interstitial, and optional rewarded advertisements.
+* **Ad Networks:** Google AdMob may collect device identifiers and IP addresses to serve ads based on your preferences.
+* **User Consent:** In compliance with privacy regulations (GDPR/CCPA), users are presented with appropriate consent management options regarding ad personalization upon their initial launch.
+* **Learn More:** You can review Google's advertising privacy policy at [Google Policies & Terms](https://policies.google.com/technologies/ads).
 
 ---
 
-## 5. Local Notifications / Yerel Bildirimler
-
-**English:**  
-The game includes a local notification system to remind you of daily goals or gameplay sessions. These notifications are scheduled locally on your device, and no notification interaction data is transmitted externally. You can disable notifications anytime in the game settings.
-
-**Türkçe:**  
-Oyun, size günlük hedefleri veya oyun seanslarını hatırlatmak için yerel bir bildirim sistemi içerir. Bu bildirimler cihazınızda yerel olarak zamanlanır ve hiçbir bildirim etkileşim verisi dışarıya aktarılmaz. Bildirimleri oyun ayarlarından istediğiniz zaman devre dışı bırakabilirsiniz.
+## 5. Local Notifications
+The game features an optional local notification system to remind you of daily goals. These notifications are scheduled entirely on your device and can be disabled at any time in the in-game settings.
 
 ---
 
-## 6. Children's Privacy / Çocukların Gizliliği
-
-**English:**  
-TetrisTetris: Overload is suitable for a general audience. We do not knowingly collect personally identifiable information from children under 13.
-
-**Türkçe:**  
-TetrisTetris: Overload genel bir kitle için uygundur. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz.
+## 6. Children's Privacy
+TetrisTetris: Overload is suitable for a general audience. We do not knowingly collect personal information from children under the age of 13.
 
 ---
 
-## 7. Data Security and Your Rights / Veri Güvenliği ve Haklarınız
-
-**English:**  
-Because we do not collect or store personal data on external servers, your local game data is fully under your control. You can permanently clear all saved progress at any time using the **"Reset Game Data"** option in settings or by uninstalling the app.
-
-**Türkçe:**  
-Harici sunucularda kişisel veri toplamadığımız veya saklamadığımız için yerel oyun verileriniz tamamen sizin kontrolünüzdedir. Ayarlardaki **"Reset Game Data"** (Verileri Sıfırla) seçeneğini kullanarak veya uygulamayı kaldırarak tüm kayıtlı ilerlemeyi istediğiniz zaman kalıcı olarak silebilirsiniz.
+## 7. Your Rights & Data Control
+Since we do not store your personal data on external servers, you have total control over your local data. You can permanently clear all progress at any time by using the **"Reset Game Data"** option in the settings or by uninstalling the application.
 
 ---
 
-## 8. Contact Us / İletişim
+## 8. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:  
+📧 **Email:** sonnurornek61@gmail.com
 
-**English:**  
-If you have any questions regarding this Privacy Policy, please contact us at: **sonnurornek61@gmail.com**
+---
+---
 
-**Türkçe:**  
-Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa lütfen bizimle şu adresten iletişime geçin: **sonnurornek61@gmail.com**
+<div id="türkçe-versiyon"></div>
+
+# 🇹🇷 Türkçe Versiyon
+
+## 1. Giriş
+**TetrisTetris: Overload** ("Oyun") uygulamasına hoş geldiniz. Gizliliğinize saygı duyuyor ve onu korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, Android cihazınıza oyunu indirdiğiniz, kurduğunuz ve oynadığınız süre boyunca mobil uygulamamızın bilgileri nasıl ele aldığını açıklar.
+
+> > 💡 **Temel Prensip:** Oyun **çevrimdışı (offline-first)** öncelikli olarak tasarlanmıştır ve kullanıcı kaydı veya profili gerektirmez.
+
+---
+
+## 2. Toplamadığımız Bilgiler
+* **Kişisel Veri Yoktur:** Adınız, telefon numaranız, e-posta adresiniz, açık adresiniz, fotoğraflarınız, kişileriniz veya konumunuz gibi hiçbir kişisel bilgiyi toplamıyor, saklamıyor veya işlemiyoruz.
+* **Hesap Zorunluluğu Yoktur:** Oyun kayıt olmanızı, oturum açmanızı veya herhangi bir profil oluşturmanızı gerektirmez.
+
+---
+
+## 3. Cihazınızda Yerel Olarak Saklanan Veriler
+Düzgün bir oyun deneyimi sağlamak için bazı kişisel olmayan veriler Android depolama mekanizmaları (DataStore / SharedPreferences) aracılığıyla yalnızca cihazınızda saklanır:
+* En yüksek skorlar ve oyun ilerlemesi
+* Oyun istatistikleri (oynanan oyunlar, temizlenen satırlar, en iyi kombo)
+* Kullanıcı tercihleri (dil, ses/müzik ayarları, titreşim ve bildirim tercihleri)
+
+*Bu veriler kesinlikle cihazınızda kalır ve asla bize veya harici sunuculara iletilmez.*
+
+---
+
+## 4. Üçüncü Taraf Hizmetleri ve Reklamlar (AdMob)
+TetrisTetris: Overload'u oynamayı ücretsiz tutabilmek amacıyla banner, geçiş reklamları ve isteğe bağlı ödüllü reklamlar sunmak için **Google AdMob** kullanıyoruz.
+* **Reklam Ağları:** Google AdMob, tercihlerinize göre reklam sunmak amacıyla cihaz tanımlayıcıları ve IP adresleri toplayabilir.
+* **Kullanıcı Onayı:** Gizlilik düzenlemelerine (GDPR/CCPA) uygun olarak, kullanıcılara ilk açılışta reklam kişiselleştirmesi ile ilgili onay seçenekleri sunulur.
+* **Daha Fazla Bilgi:** Google'ın reklamcılık gizlilik politikasını [Google Politikaları ve Şartları](https://policies.google.com/technologies/ads) adresinden inceleyebilirsiniz.
+
+---
+
+## 5. Yerel Bildirimler
+Oyun, size günlük hedefleri hatırlatmak için yerel bir bildirim sistemine sahiptir. Bu bildirimler tamamen cihazınızda planlanır ve oyun ayarlarından istediğiniz zaman kapatılabilir.
+
+---
+
+## 6. Çocukların Gizliliği
+TetrisTetris: Overload genel bir kitle için uygundur. 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz.
+
+---
+
+## 7. Haklarınız ve Veri Kontrolü
+Kişisel verilerinizi harici sunucularda saklamadığımız için yerel verileriniz tamamen sizin kontrolünüzdedir. Ayarlardaki **"Reset Game Data"** (Verileri Sıfırla) seçeneğini kullanarak veya uygulamayı kaldırarak tüm ilerlemeyi dilediğiniz zaman kalıcı olarak silebilirsiniz.
+
+---
+
+## 8. İletişim
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:  
+📧 **E-posta:** sonnurornek61@gmail.com
