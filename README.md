@@ -1,16 +1,3 @@
-# 🧩 TetrisTetris: Overload
-### Privacy Policy / Gizlilik Politikası
-
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-
-*Effective Date / Yürürlük Tarihi: September 11, 2026*  
-*Developer / Geliştirici: Sonnur Kaplan*  
-*Contact / İletişim: [sonnurornek61@gmail.com](mailto:sonnurornek61@gmail.com)*
-
----
-
 ## 🌐 Quick Navigation / Hızlı Navigasyon
 * [English Version](#-english-version)
 * [Türkçe Versiyon](#-türkçe-versiyon)
