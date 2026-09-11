@@ -26,53 +26,34 @@
 # 🇬🇧 English Version
 
 ## 1. Introduction
-Welcome to **TetrisTetris: Overload** ("the Game"). We respect your privacy and are committed to protecting it. This Privacy Policy explains how our mobile application handles information when you download, install, and play the game on your Android device.
+Welcome to **TetrisTetris: Overload** ("the Game"). We prioritize the safety and privacy of all our users, especially children and families. This Privacy Policy outlines how our application handles information on your Android device.
 
-> > 💡 **Core Principle:** The game is designed with an **offline-first** approach and does not require user registration or personal profiles.
-
----
-
-## 2. Information We Do Not Collect
-* **No Personal Data:** We do not collect, store, or process any personal information such as your name, phone number, email address, physical address, photos, contacts, or location.
-* **No Accounts:** The game does not require you to sign up, log in, or create any user profile.
+> > 💡 **Core Principle:** The game operates entirely **offline**, does not require user registration, and collects **no personal profile data**.
 
 ---
 
-## 3. Data Stored Locally on Your Device
-To ensure proper game functionality, certain non-personal gameplay data is stored locally on your device using Android storage mechanisms (DataStore / SharedPreferences):
-* High scores and current game progress
-* Game statistics (games played, total lines cleared, best combo)
-* User preferences (language, sound/music settings, haptic feedback, and notifications)
-
-*This data remains strictly on your device and is never transmitted to us or any external servers.*
+## 2. Children's Safety & Privacy (COPPA & Family-Friendly)
+* **Safe for Kids:** TetrisTetris: Overload is designed as a family-friendly casual puzzle game suitable for children.
+* **No Personal Data Collection from Children:** We do not knowingly collect, request, or store any personal information (such as names, phone numbers, emails, locations, or photos) from children under the age of 13.
+* **No Social Features:** The game is strictly single-player and contains no chat systems, social media links, or online user interactions.
 
 ---
 
-## 4. Third-Party Services and Advertising (AdMob)
-To keep TetrisTetris: Overload free to play, we integrate **Google AdMob** to display banner, interstitial, and optional rewarded advertisements.
-* **Ad Networks:** Google AdMob may collect device identifiers and IP addresses to serve ads based on your preferences.
-* **User Consent:** In compliance with privacy regulations (GDPR/CCPA), users are presented with appropriate consent management options regarding ad personalization upon their initial launch.
-* **Learn More:** You can review Google's advertising privacy policy at [Google Policies & Terms](https://policies.google.com/technologies/ads).
+## 3. Advertising & Ad ID Disclosure (AdMob)
+To keep the game free to play, we use **Google AdMob** to display ads. 
+* **Advertising ID (Ad ID):** AdMob may use device identifiers (such as the Android Advertising ID) to serve advertisements. 
+* **Family-Safe Ads:** We configure our ad settings to comply with Google's Families Policy and child-directed treatment regulations to ensure that ads shown are appropriate and compliant with safety guidelines.
+* You can learn more via [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
 
 ---
 
-## 5. Local Notifications
-The game features an optional local notification system to remind you of daily goals. These notifications are scheduled entirely on your device and can be disabled at any time in the in-game settings.
+## 4. Local Data Storage Only
+The game stores non-personal data (high scores, statistics, and game preferences) **locally on your device** using Android storage (DataStore/SharedPreferences). No gameplay or device data is ever sent to our servers.
 
 ---
 
-## 6. Children's Privacy
-TetrisTetris: Overload is suitable for a general audience. We do not knowingly collect personal information from children under the age of 13.
-
----
-
-## 7. Your Rights & Data Control
-Since we do not store your personal data on external servers, you have total control over your local data. You can permanently clear all progress at any time by using the **"Reset Game Data"** option in the settings or by uninstalling the application.
-
----
-
-## 8. Contact Us
-If you have any questions regarding this Privacy Policy, please contact us at:  
+## 5. Contact Us
+If you have any questions or concerns regarding child safety or this privacy policy, please contact us at:  
 📧 **Email:** sonnurornek61@gmail.com
 
 ---
@@ -83,51 +64,32 @@ If you have any questions regarding this Privacy Policy, please contact us at:
 # 🇹🇷 Türkçe Versiyon
 
 ## 1. Giriş
-**TetrisTetris: Overload** ("Oyun") uygulamasına hoş geldiniz. Gizliliğinize saygı duyuyor ve onu korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, Android cihazınıza oyunu indirdiğiniz, kurduğunuz ve oynadığınız süre boyunca mobil uygulamamızın bilgileri nasıl ele aldığını açıklar.
+**TetrisTetris: Overload** ("Oyun") uygulamasına hoş geldiniz. Tüm kullanıcılarımızın, özellikle çocukların ve ailelerin güvenliğine ve gizliliğine öncelik veriyoruz. Bu Gizlilik Politikası, uygulamamızın Android cihazınızdaki bilgileri nasıl ele aldığını açıklar.
 
-> > 💡 **Temel Prensip:** Oyun **çevrimdışı (offline-first)** öncelikli olarak tasarlanmıştır ve kullanıcı kaydı veya profili gerektirmez.
-
----
-
-## 2. Toplamadığımız Bilgiler
-* **Kişisel Veri Yoktur:** Adınız, telefon numaranız, e-posta adresiniz, açık adresiniz, fotoğraflarınız, kişileriniz veya konumunuz gibi hiçbir kişisel bilgiyi toplamıyor, saklamıyor veya işlemiyoruz.
-* **Hesap Zorunluluğu Yoktur:** Oyun kayıt olmanızı, oturum açmanızı veya herhangi bir profil oluşturmanızı gerektirmez.
+> > 💡 **Temel Prensip:** Oyun tamamen **çevrimdışı** çalışır, kayıt olmanızı gerektirmez ve **hiçbir kişisel profil verisi toplamaz**.
 
 ---
 
-## 3. Cihazınızda Yerel Olarak Saklanan Veriler
-Düzgün bir oyun deneyimi sağlamak için bazı kişisel olmayan veriler Android depolama mekanizmaları (DataStore / SharedPreferences) aracılığıyla yalnızca cihazınızda saklanır:
-* En yüksek skorlar ve oyun ilerlemesi
-* Oyun istatistikleri (oynanan oyunlar, temizlenen satırlar, en iyi kombo)
-* Kullanıcı tercihleri (dil, ses/müzik ayarları, titreşim ve bildirim tercihleri)
-
-*Bu veriler kesinlikle cihazınızda kalır ve asla bize veya harici sunuculara iletilmez.*
+## 2. Çocuk Güvenliği ve Gizliliği (Aile Dostu Yaklaşım)
+* **Çocuklar İçin Güvenli:** TetrisTetris: Overload, çocuklar için uygun, aile dostu bir bulmaca oyunu olarak tasarlanmıştır.
+* **Çocuklardan Kişisel Veri Toplanmaz:** 13 yaşın altındaki çocuklardan bilerek hiçbir kişisel bilgi (isim, telefon numarası, e-posta, konum veya fotoğraf gibi) talep etmiyor, toplamıyor veya saklamıyoruz.
+* **Sosyal Özellik Yoktur:** Oyun tamamen tek oyunculudur; sohbet sistemi, arkadaş ekleme özellikleri veya çevrimiçi kullanıcı etkileşimleri barındırmaz.
 
 ---
 
-## 4. Üçüncü Taraf Hizmetleri ve Reklamlar (AdMob)
-TetrisTetris: Overload'u oynamayı ücretsiz tutabilmek amacıyla banner, geçiş reklamları ve isteğe bağlı ödüllü reklamlar sunmak için **Google AdMob** kullanıyoruz.
-* **Reklam Ağları:** Google AdMob, tercihlerinize göre reklam sunmak amacıyla cihaz tanımlayıcıları ve IP adresleri toplayabilir.
-* **Kullanıcı Onayı:** Gizlilik düzenlemelerine (GDPR/CCPA) uygun olarak, kullanıcılara ilk açılışta reklam kişiselleştirmesi ile ilgili onay seçenekleri sunulur.
-* **Daha Fazla Bilgi:** Google'ın reklamcılık gizlilik politikasını [Google Politikaları ve Şartları](https://policies.google.com/technologies/ads) adresinden inceleyebilirsiniz.
+## 3. Reklamlar ve Reklam Kimliği (Ad ID) Bilgilendirmesi
+Oyunu ücretsiz sunabilmek amacıyla **Google AdMob** reklamları kullanıyoruz.
+* **Reklam Kimliği (Ad ID):** AdMob, reklam sunabilmek için cihaz düzeyindeki tanımlayıcıları (Android Reklam Kimliği gibi) kullanabilir.
+* **Aile Dostu Reklamlar:** Reklam ayarlarımız, Google'ın Aile Politikalarına (Families Policy) ve çocuklara yönelik içerik yönergelerine tam uyumlu olacak şekilde yapılandırılmıştır. Böylece oyunculara uygun ve güvenli reklamlar gösterilmesi hedeflenir.
+* Detaylı bilgi için [Google Gizlilik ve Şartlar](https://policies.google.com/technologies/ads) sayfasını inceleyebilirsiniz.
 
 ---
 
-## 5. Yerel Bildirimler
-Oyun, size günlük hedefleri hatırlatmak için yerel bir bildirim sistemine sahiptir. Bu bildirimler tamamen cihazınızda planlanır ve oyun ayarlarından istediğiniz zaman kapatılabilir.
+## 4. Yalnızca Yerel Veri Depolama
+Oyun, kişisel olmayan verileri (en yüksek skorlar, istatistikler ve oyun tercihleri) Android depolama alanını kullanarak **yalnızca cihazınızda yerel olarak** saklar. Hiçbir oyun veya cihaz verisi harici sunucularımıza gönderilmez.
 
 ---
 
-## 6. Çocukların Gizliliği
-TetrisTetris: Overload genel bir kitle için uygundur. 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz.
-
----
-
-## 7. Haklarınız ve Veri Kontrolü
-Kişisel verilerinizi harici sunucularda saklamadığımız için yerel verileriniz tamamen sizin kontrolünüzdedir. Ayarlardaki **"Reset Game Data"** (Verileri Sıfırla) seçeneğini kullanarak veya uygulamayı kaldırarak tüm ilerlemeyi dilediğiniz zaman kalıcı olarak silebilirsiniz.
-
----
-
-## 8. İletişim
-Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:  
+## 5. İletişim
+Çocuk güvenliği veya bu gizlilik politikası ile ilgili herhangi bir sorunuz olursa bizimle şu adresten iletişime geçebilirsiniz:  
 📧 **E-posta:** sonnurornek61@gmail.com
